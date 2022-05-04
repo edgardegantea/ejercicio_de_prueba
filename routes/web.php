@@ -13,6 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+//xdxdxd
+//wenas nocheeeeeesssssssssssss
+
+//hola mundoooooooooooooooooooooo
+
 Route::get('/', function () {
     return view('welcome');
 });
